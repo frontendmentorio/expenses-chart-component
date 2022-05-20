@@ -21,10 +21,10 @@ We provide the data for the chart in a local `data.json` file. So you can use th
 Your users should be able to:
 
 - View the bar chart and hover over the individual bars to see the correct amounts for each day
-- See the current day’s bar highlighted in a different colour to the other bars
-- View the optimal layout for the content depending on their device’s screen size
+- See the current day's bar highlighted in a different colour to the other bars
+- View the optimal layout for the content depending on their device's screen size
 - See hover states for all interactive elements on the page
-- **Bonus**: Use the JSON data file provided to size the bars on the chart dynamically
+- **Bonus**: See dynamically generated bars based on the data provided in the local JSON file
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
