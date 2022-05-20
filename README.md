@@ -16,13 +16,15 @@ Your challenge is to build out this bar chart component and get it looking as cl
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
+We provide the data for the chart in a local `data.json` file. So you can use that to dynamically add the bars if you choose.
+
 Your users should be able to:
 
 - View the bar chart and hover over the individual bars to see the correct amounts for each day
 - See the current day’s bar highlighted in a different colour to the other bars
 - View the optimal layout for the content depending on their device’s screen size
 - See hover states for all interactive elements on the page
-- **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
+- **Bonus**: Use the JSON data file provided to size the bars on the chart dynamically
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
