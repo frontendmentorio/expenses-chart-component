@@ -13,15 +13,14 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Soft red: hsl(10, 79%, 65%)
-- Cyan: hsl(186, 34%, 60%)
+- Red 500: hsl(10, 79%, 65%)
+- Blue 300: hsl(186, 34%, 65%)
 
 ### Neutral
 
-- Dark brown: hsl(25, 47%, 15%)
-- Medium brown: hsl(28, 10%, 53%)
-- Cream: hsl(27, 66%, 92%)
-- Very pale orange: hsl(33, 100%, 98%)
+- Brown 950: hsl(25, 47%, 15%)
+- Brown 400: hsl(28, 10%, 53%)
+- Red 100: hsl(26, 66%, 93%)
 
 ## Typography
 
